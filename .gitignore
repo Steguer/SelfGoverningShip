@@ -1,0 +1,11 @@
+bin/
+CMakeFiles/
+cmake_install.cmake
+cross/
+library/
+obj/
+*.sublime-project
+*.sublime-workspace
+log
+Makefile
+CMakeCache.txt
